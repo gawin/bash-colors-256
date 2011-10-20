@@ -18,6 +18,10 @@ or you can add the execution bits to make 256-xterm-colors executable
   chmod +x 256-xterm-colors
   ./256-xterm-colors
 
+== Example
+
+http://github.com/gawin/256-xterm-colors/raw/master/bash_256_colors_iterm_screenshot.png
+
 == License
 
 MIT License. Copyright 2011 Gawin Dapper. http://gaw.in
