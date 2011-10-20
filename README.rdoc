@@ -1,0 +1,23 @@
+== 256 xterm colors
+
+256 xterm colors is a small script to show all 256 colors in your current terminal.
+iTerm2 has beautiful color support: http://www.iterm2.com/
+
+== Installation
+
+Please make sure that u exported your TERM as xterm-256color in your .profile or .bashrc configuration.
+
+  export TERM=xterm-256color
+
+== Getting started
+
+  ruby 256-xterm-colors
+
+or you can add the execution bits to make 256-xterm-colors executable
+
+  chmod +x 256-xterm-colors
+  ./256-xterm-colors
+
+== License
+
+MIT License. Copyright 2011 Gawin Dapper. http://gaw.in
