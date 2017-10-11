@@ -36,4 +36,4 @@ chmod +x 256-xterm-colors
 
 ## License
 
-MIT License. Copyright Gawin Dapper. [https://gaw.in](https://gaw.in)
+MIT License. Copyright 2011-2017 Gawin. [https://gaw.in](https://gaw.in)
