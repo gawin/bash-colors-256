@@ -13,20 +13,21 @@ Simply copy this into your terminal, it will download and show 256 pretty colors
 
 ## Example screenshot
 
-![Screenshot](https://raw.githubusercontent.com/gawin/bash-colors-256/master/bash_256_colors_iterm_screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/gawin/bash-colors-256/master/colors_screenshot.png?raw=true)
 
 ## Common issues
 
-Please make sure that you exported your TERM as xterm-256color. You may add this line in your `~/.profile` or `~/.bashrc` configuration.
-
-```
-export TERM=xterm-256color
-```
-
+Although most terminals now have `xterm-256color` set by default, some terminals still don't.
 You can easily verify if the TERM variable is set correctly using this command:
 
 ```
 echo $TERM
+```
+
+In case it is not set correctly you can export your TERM as `xterm-256color`. Add this line in your `~/.profile` or `~/.bashrc` configuration:
+
+```
+export TERM=xterm-256color
 ```
 
 ## License
