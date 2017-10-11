@@ -8,7 +8,7 @@ If you are on a Mac, [iTerm2](https://www.iterm2.com/) has beautiful color suppo
 Simply copy this into your terminal, it will download and show 256 pretty colors with a single command:
 
 ```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/gawin/bash-colors-256/master/256-xterm-colors)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/gawin/bash-colors-256/master/colors)"
 ```
 
 ## Example screenshot
